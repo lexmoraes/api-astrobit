@@ -1,4 +1,4 @@
-# api-astrobit  <div><img height="40" src="https://raw.githubusercontent.com/antonio-pss/bit-debugger/refs/heads/main/images/bit/bit-walk/0.png"/></div>
+# api-astrobit  <img height="40" src="https://raw.githubusercontent.com/antonio-pss/bit-debugger/refs/heads/main/images/bit/bit-walk/0.png"/>
 
 ### Configurações iniciais:
 - Passo 1: Criar diretório local para armazenas o projeto.
