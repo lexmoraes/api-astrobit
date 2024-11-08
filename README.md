@@ -1,6 +1,6 @@
 # api-astrobit
-<div align="center">
-  <img height="250" src="https://raw.githubusercontent.com/antonio-pss/bit-debugger/refs/heads/main/images/bit/bit-walk/0.png"  />
+<div align="left">
+  <img height="5" src="https://raw.githubusercontent.com/antonio-pss/bit-debugger/refs/heads/main/images/bit/bit-walk/0.png"  />
 </div>
 
 ### Configurações iniciais:
