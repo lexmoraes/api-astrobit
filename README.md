@@ -9,7 +9,7 @@
 - Passo 3: Ativar a *venv*:
    ```bash
    .venv\Scripts\activate
-- Passo 4: Instalar as dependências do arquivo *requirements.txt*:
+- Passo 4: Instalar as dependências do projeto através do arquivo *requirements.txt*:
   ```bash
   pip install -r requirements.txt
   ```   
