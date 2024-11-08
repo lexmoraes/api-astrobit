@@ -11,5 +11,5 @@
    .venv\Scripts\activate
 4. Instalar as dependências do arquivo *requirements.txt*:
   ```bash
-  pip install -r requirements.txt
+     pip install -r requirements.txt
   ```   
